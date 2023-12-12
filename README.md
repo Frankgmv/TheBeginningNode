@@ -7,15 +7,15 @@ Empezando node con Richard Betancur en el CTM
 
 
 
-## Quires verlo
+## Quieres verlo
 
-Para verlo solo abre tu terminal y ubicate en una directorio que quieres
+Para verlo solo abre tu terminal y ubicate en el directorio que quieras
 
 Haz git clone 
 
 ```ssh
 
-  git clone https://github.com/Frankgmv/search_cars
+  git clone https://github.com/Frankgmv/TheBeginningNode
 ```
 
 Abre tu editor de código
